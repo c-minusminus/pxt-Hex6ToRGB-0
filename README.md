@@ -24,3 +24,26 @@ To edit this repository in MakeCode.
 
 * for PXT/arcade
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+
+To use this project, go to javascript, open the file explorer, edit pxt.json, and paste in:
+"palette": [
+        "#000000",
+        "#ff0000",
+        "#cc0000",
+        "#990000",
+        "#660000",
+        "#330000",
+        "#00ff00",
+        "#00cc00",
+        "#009900",
+        "#006600",
+        "#003300",
+        "#0000ff",
+        "#0000cc",
+        "#000099",
+        "#000066",
+        "#000033"
+    ]
+    This is very important!!
